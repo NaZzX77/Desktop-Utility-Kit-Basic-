@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Desktp Utility Kit:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Desktp_Utility_Kit_jar</output-path>
+    <root id="archive" name="Desktp Utility Kit.jar">
+      <element id="module-output" name="Desktp Utility Kit" />
+    </root>
+  </artifact>
+</component>
